@@ -18,5 +18,6 @@ if (max > b)
 else if (b > max)
     Console.WriteLine( $"Максимальное число равно {b}");
 else 
+
     Console.WriteLine( "Первое и второе число равны");
 

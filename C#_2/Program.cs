@@ -23,6 +23,7 @@ else
        }
 }
 else if (b > c) 
+
          Console.WriteLine( $"Максимальное число равно {b}");
 else
     Console.WriteLine( $"Максимальное число равно {c}");
